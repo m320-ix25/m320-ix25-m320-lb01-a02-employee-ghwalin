@@ -1,0 +1,107 @@
+[
+  {
+    "name": "test_department_init",
+    "function": "test_department_init",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_department_add_employee",
+    "function": "test_department_add_employee",
+    "timeout": 10,
+    "points": 3
+  },
+  {
+    "name": "test_department_add_employee_overflow",
+    "function": "test_department_add_employee_overflow",
+    "timeout": 10,
+    "points": 2
+  },{
+    "name": "test_department_take_employee_by_name",
+    "function": "test_department_take_employee_by_name",
+    "timeout": 10,
+    "points": 0
+  },
+  {
+    "name": "test_department_take_employee",
+    "function": "test_department_take_employee",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_department_take_employee_invalid",
+    "function": "test_department_take_employee_invalid",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_department_remove_employee",
+    "function": "test_department_remove_employee",
+    "timeout": 10,
+    "points": 3
+  },{
+    "name": "test_department_len",
+    "function": "test_department_len",
+    "timeout": 10,
+    "points": 0
+  },
+  {
+    "name": "test_department_eq",
+    "function": "test_department_eq",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_employee_init",
+    "function": "test_employee_init",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_employee_add_department",
+    "function": "test_employee_add_department",
+    "timeout": 10,
+    "points": 3
+  },
+  {
+    "name": "test_employee_add_department_overflow",
+    "function": "test_employee_add_department_overflow",
+    "timeout": 10,
+    "points": 2
+  },{
+    "name": "test_employee_take_department_by_name",
+    "function": "test_employee_take_department_by_name",
+    "timeout": 10,
+    "points": 0
+  },
+  {
+    "name": "test_employee_take_department",
+    "function": "test_employee_take_department",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_employee_take_department_invalid",
+    "function": "test_employee_take_department_invalid",
+    "timeout": 10,
+    "points": 2
+  },
+  {
+    "name": "test_employee_remove_department",
+    "function": "test_employee_remove_department",
+    "timeout": 10,
+    "points": 3
+  },
+  {
+    "name": "test_employee_len",
+    "function": "test_employee_len",
+    "timeout": 10,
+    "points": 0
+  },
+  {
+    "name": "test_employee_eq",
+    "function": "test_employee_eq",
+    "timeout": 10,
+    "points": 2
+  }
+]

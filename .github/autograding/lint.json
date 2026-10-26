@@ -1,0 +1,5 @@
+{
+  "files": ["department.py", "employee.py"],
+  "ignore" : [],
+  "max": 6
+}
