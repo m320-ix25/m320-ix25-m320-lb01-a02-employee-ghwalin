@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "m320-ix25"
+assignment: "m320-lb01-a02-employee"
+owner:
+  username: "ia25b-capellil"
+  id: 218461289
+  accepted_at: "2026-10-02T07:37:02Z"
+source:
+  owner: "templates-python"
+  owner_id: 124045588
+  repo: "m320-lb01-a02-employee"
+  branch: "main"
